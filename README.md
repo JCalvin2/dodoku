@@ -1,2 +1,2 @@
-# dodoku
-Simulates an Overlapping Sudoku
+# SoftwareProcessDodoku
+Overlapping Sudoko
